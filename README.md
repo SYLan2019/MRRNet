@@ -10,7 +10,7 @@ need add---
 
 If you use this repository or would like to refer the paper, please use the following BibTeX entry
 ```
-@INPROCEEDINGS{9506332,
+@INPROCEEDINGS{MRRNet,
   author={Huang, Weikang and Lan, Shiyong and Wang, Wenwu and Yuan, Xuedong and Yang, Hongyu and Li, Piaoyang and Ma, Wei},
   booktitle={International Conference on Artificial Neural Networks,(ICANN2022)}, 
   title={Face Super-Resolution with Spatial Attention Guided by Multiscale Receptive-Field Features}, 
