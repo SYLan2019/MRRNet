@@ -3,6 +3,8 @@
 This repository contains PyTorch implementation of the following paper: **Face Super-Resolution with Spatial Attention Guided by Multiscale Receptive-Field Features**.
 
 Face super-resolution (FSR) is dedicated to the restoration of high-resolution (HR) face images from their low-resolution (LR) counterparts. Many deep FSR methods exploit facial prior knowledge (e.g., facial landmark and parsing map) related to facial structure information to generate HR face images. However, directly training a facial prior estimation network with deep FSR model requires manually labeled data, and is often computationally expensive. In addition, inaccurate facial priors may degrade super-resolution performance. In this paper, we propose a residual FSR method with spatial attention mechanism guided by multiscale receptive-field features (MRF) for converting LR face images (i.e., 16 × 16) to HR face images (i.e., 128 × 128). With our spatial attention mechanism, we can recover local details in face images without explicitly learning the prior knowledge. Quantitative and qualitative experiments show that our method outperforms state-of-the-art FSR method.
+
+![comparision](./figures/128ImageComV2.pdf)
 ## 2. Requirements and Installation
 We recommended the following dependencies.
 * Python>=3.7
