@@ -49,7 +49,7 @@ python test.py --gpus 1 --model mrrnet --name MRRNet \
 
 
 
-## 3. Citing MRRNet
+## 6. Citing MRRNet
 
 If you use this repository or would like to refer the paper, please use the following BibTeX entry
 ```
